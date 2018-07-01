@@ -1,42 +1,42 @@
-tsuncoin Core integration/staging tree
+tsumcoin Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/tsuncoin-project/tsuncoin.svg?branch=master)](https://travis-ci.org/tsuncoin-project/tsuncoin)
+[![Build Status](https://travis-ci.org/tsumcoin-project/tsumcoin.svg?branch=master)](https://travis-ci.org/tsumcoin-project/tsumcoin)
 
-https://tsuncoin.org
+https://tsumcoin.org
 
-What is tsuncoin?
+What is tsumcoin?
 ----------------
 
-tsuncoin is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. tsuncoin uses peer-to-peer technology to operate
+tsumcoin is an experimental digital currency that enables instant payments to
+anyone, anywhere in the world. tsumcoin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
-out collectively by the network. tsuncoin Core is the name of open source
+out collectively by the network. tsumcoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the tsuncoin Core software, see [https://tsuncoin.org](https://tsuncoin.org).
+the tsumcoin Core software, see [https://tsumcoin.org](https://tsumcoin.org).
 
 License
 -------
 
-tsuncoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+tsumcoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Development Process
 -------------------
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/tsuncoin-project/tsuncoin/tags) are created
-regularly to indicate new official, stable release versions of tsuncoin Core.
+completely stable. [Tags](https://github.com/tsumcoin-project/tsumcoin/tags) are created
+regularly to indicate new official, stable release versions of tsumcoin Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-The developer [mailing list](https://groups.google.com/forum/#!forum/tsuncoin-dev)
+The developer [mailing list](https://groups.google.com/forum/#!forum/tsumcoin-dev)
 should be used to discuss complicated or controversial changes before working
 on a patch set.
 
-Developer IRC can be found on Freenode at #tsuncoin-dev.
+Developer IRC can be found on Freenode at #tsumcoin-dev.
 
 Testing
 -------
@@ -69,7 +69,7 @@ Translations
 ------------
 
 We only accept translation fixes that are submitted through [Bitcoin Core's Transifex page](https://www.transifex.com/projects/p/bitcoin/).
-Translations are converted to tsuncoin periodically.
+Translations are converted to tsumcoin periodically.
 
 Translations are periodically pulled from Transifex and merged into the git repository. See the
 [translation process](doc/translation_process.md) for details on how this works.
